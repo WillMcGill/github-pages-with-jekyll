@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to Will's Custom site
 
-I'm glad you are here. I plan to talk about ...
+## This is being created in GitHub
